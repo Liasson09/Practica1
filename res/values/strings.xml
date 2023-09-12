@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="sesión">Iniciar Sesión</string>
+    <string name="txtUsuario">Ingresa tu usuario</string>
+    <string name="txtPass">Ingresa tu contraseña</string>
+    <string name="page_title">Cuidado de tu mascota</string>
+    <string name="perro">Perro</string>
+    <string name="gato">Gato</string>
+
+    <!-- Información de vacunación para perros -->
+    <string name="vacunas_perros">Vacunación para Perros:</string>
+    <string name="vacuna_1_perros">- A partir de las 6 semanas: vacuna de parvovirus+/- virus del moquillo.</string>
+    <string name="vacuna_2_perros">- A los 2 meses: vacuna denominada Polivalente (parvovirus, virus del moquillo, virus de la para influenza, virus de la hepatitis+/- leptospira).</string>
+    <string name="vacuna_3_perros">- A los 3 meses: refuerzo de la vacuna Polivalente.</string>
+    <string name="vacuna_4_perros">- A los 4 meses: refuerzo de la vacuna Polivalente + vacuna contra la Rabia donde sea necesaria.</string>
+    <string name="vacuna_5_perros">- Al año: refuerzo de vacuna Polivalente y refuerzo de vacuna contra la Rabia.</string>
+
+    <!-- Información de vacunación para gatos -->
+    <string name="vacunas_gatos">Vacunación para Gatos:</string>
+    <string name="vacuna_1_gatos">- 2 meses: Vacuna trivalente frente a la panleucopenia, el calcivirus y la rinotraqueitis.</string>
+    <string name="vacuna_2_gatos">- 2 meses y medio: Leucemia felina.</string>
+    <string name="vacuna_3_gatos">- 3 meses: Revacunación de la trivalente (segunda dosis).</string>
+    <string name="vacuna_4_gatos">- 3 meses y medio: Revacunación de la leucemia (segunda dosis).</string>
+    <string name="vacuna_5_gatos">- 4 meses: Vacuna contra la rabia.</string>
+</resources>
